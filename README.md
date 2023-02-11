@@ -1,4 +1,7 @@
 # simple_weather_app
+
+![~O4IR~7C_LQBYHEQ 9IG4W4](https://user-images.githubusercontent.com/35422040/218282095-fd42654d-a30c-4988-89c0-7cd5eadc8831.png)
+
 学习 [The Coding Train: Working with Data and APIs in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X) 最终所做的练习
 原项目使用了DarkSky API，但该API目前已经不能使用，所以使用了[OpenWeather API](https://openweathermap.org/api)
 
