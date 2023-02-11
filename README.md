@@ -12,6 +12,7 @@ git clone https://github.com/Ziur02/simple_weather_app.git
 ```
 npm install
 ```
+新建.env文件，按照.env_sample中的格式将YOUR_API_KEY_HERE部分替换为自己的key，该key可以在登陆OpenWeather网站后在[这里](https://home.openweathermap.org/api_keys)获取
 
 启动项目
 ```
